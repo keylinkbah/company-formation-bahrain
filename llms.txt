@@ -1,0 +1,26 @@
+# Keylink Business Support — Company Formation in Bahrain
+
+> A company formation preparation guide covering Bahrain legal structures, Sijilat commercial registration, documents, costs, tax, compliance and contacting Keylink Business Support.
+
+Keylink Business Support is based in Sanabis, Manama, Bahrain. This guide provides general preparation information, not legal, tax or immigration advice. Registration, activity licensing, banking and immigration are separate approvals. Confirm current requirements with the relevant authorities; Keylink's scope and charges must be agreed directly with the team. Illustrative images do not depict Keylink's actual office or clients.
+
+## Pages
+
+- [Company formation guide](./): The complete public landing page, including frequently asked questions and official-source references.
+- [Full guide in Markdown](./company-formation-bahrain.md): A text-readable copy of the guide with headings, FAQs, planning tables and source links.
+- [Keylink company formation services](https://keylinkbah.com/company-formation-bahrain): Keylink's main service page and next step for enquiries.
+
+## Official sources
+
+- [Sijilat registration and activities](https://www.sijilat.bh/setupyourbusiness.aspx): Business registration and activity requirements.
+- [MOIC regulations](https://www.moic.gov.bh/en/regulations): Companies Law and regulatory materials.
+- [MOIC Sijili eligibility guide](https://www.moic.gov.bh/sites/default/files/2026-01/Virtual%20CR%20Sijili%20Guide_0.pdf): Virtual-store eligibility guidance.
+- [NBR VAT registration](https://www.nbr.gov.bh/vat_registration): VAT registration requirements.
+- [NBR Domestic Minimum Top-up Tax](https://www.nbr.gov.bh/dmtt_faqs): DMTT guidance and frequently asked questions.
+- [NBR corporate tax announcement](https://www.nbr.gov.bh/releases/229): Announcement referenced in the guide; check subsequent legislation before relying on proposed rules.
+- [LMRA work permits](https://www.lmra.gov.bh/en/page/show/106): Work permit requirements.
+
+## Optional
+
+- [Book a consultation](https://calendly.com/keylinkbah-info/30min): Keylink's 30-minute consultation booking.
+- [WhatsApp enquiry](https://wa.me/97332392277): Contact Keylink about a proposed Bahrain company.
